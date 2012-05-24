@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os
 file=open('/proc/devices')
 for line in file:
