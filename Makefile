@@ -1,5 +1,5 @@
 
-obj-m := showPCB.o
+obj-m := scull.o
 #KERNELDIR =/usr/src/linux-headers-$(shell uname -r)
 KERNELDIR = /lib/modules/$(shell uname -r)/build 
 
